@@ -1,0 +1,32 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/ajnuss.jpg" filesize="13878" filedate="2018-08-11 10:00:03" width="258px" height="170px">
+</image>
+<image path="images/back.jpg" filesize="37423" filedate="2019-04-24 10:02:51" width="498px" height="720px">
+</image>
+<image path="images/book.png" filesize="217" filedate="2018-08-11 10:00:01" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="151" filedate="2018-08-11 10:00:01" width="12px" height="12px">
+</image>
+<image path="images/front.jpg" filesize="78435" filedate="2018-08-11 10:00:03" width="506px" height="720px">
+</image>
+<image path="images/plate1.jpg" filesize="93624" filedate="2019-04-24 10:02:51" width="459px" height="720px">
+</image>
+<image path="images/plate2.jpg" filesize="82049" filedate="2019-04-24 10:02:51" width="449px" height="720px">
+</image>
+<image path="images/plate3.jpg" filesize="87349" filedate="2019-04-24 10:02:51" width="454px" height="720px">
+</image>
+<image path="images/plate4.jpg" filesize="88693" filedate="2019-04-24 10:02:52" width="453px" height="720px">
+</image>
+<image path="images/plate5.jpg" filesize="92006" filedate="2019-04-24 10:02:52" width="453px" height="720px">
+</image>
+<image path="images/plate6.jpg" filesize="82469" filedate="2019-04-24 10:02:52" width="453px" height="720px">
+</image>
+<image path="images/qrcode.png" filesize="266" filedate="2019-04-25 17:41:59" width="148px" height="148px">
+</image>
+<image path="images/spine.jpg" filesize="12379" filedate="2018-08-11 10:00:04" width="92px" height="720px">
+</image>
+<image path="images/titlepage.png" filesize="7037" filedate="2019-04-24 10:02:56" width="476px" height="720px">
+</image>
+</images>
